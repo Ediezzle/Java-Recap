@@ -8,5 +8,6 @@ class Boeing extends Aeroplane
 	public void altitude()
 	{
 		System.out.println("Mostly above birds");
+		final int y = 4;
 	}
 }

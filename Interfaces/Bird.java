@@ -14,5 +14,7 @@ class Bird implements Flyable
 	{
 		Bird b = new Bird();
 		b.speed();
+
+		Flyable f = new Bird();
 	}
 }
